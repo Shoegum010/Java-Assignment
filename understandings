@@ -1,0 +1,26 @@
+This file contains the understanding for the given assignment
+1>The first assignment was the simple library management system where a student can borrow the books if not taken by any other student
+in this assignment two classes are present mailny library and student where library handles the array list of the books.
+and student handles the list of borrowed books.
+
+2>The second assignment was using the SOLID principle we need to apply it on our codes and make a payment system which supports SOLID principle.
+in this assignment i got to know about the SOLID principle which makes our code more robust and good in design.
+S-Single responsibility principle
+O-Open Closed Principle
+L-Liskov's Principle
+I-Interface Segregation Principle.
+D-Dependency Inversion Principle.
+using this principles i implemented only the first four . The last Principle was little bit complex .
+i implemented SOLI in the payment system where a user is asked to make a payment process.
+
+3>The third assignment i did was the client Server system.
+where i learned about sockets and the multithreading.
+multithrerading can be done with three types
+1) a simple thread
+2) runnable
+3)lambda expression 
+amongst which i am comfortable with the lanbda expression.
+with that i tried one to one chat system.
+
+4> java word game Using socket and JWI interface.
+------still to be done------
